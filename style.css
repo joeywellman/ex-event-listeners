@@ -1,0 +1,23 @@
+.red-text {
+    color: red;
+    font-size: 3em;
+}
+
+/* :hover {} */
+
+.dark-background {
+    color: white;
+    background-color: black;
+}
+
+.output-div {
+    font-weight: bold;
+}
+
+.contact-meLabel {
+    font-weight: bold;
+}
+
+.contact-submit {
+    font-weight: bold;
+}
